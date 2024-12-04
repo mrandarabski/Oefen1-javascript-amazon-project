@@ -18,3 +18,7 @@ all the products with same name an that is worng.
 To fix this:
 - give each product an id 
 - this id should be unique
+
+Steps to calculate the quantity.
+1. Calculate the quantity.
+2. Put the quantity on the page.
